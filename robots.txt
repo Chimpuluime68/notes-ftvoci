@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Chimpuluime68.github.io/notes-ftvoci/sitemap.xml
